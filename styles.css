@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    padding: 20px;
+    margin: 0px;
+}
+
+.heading {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    border: 8px solid darkblue;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.subheading {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 6px solid navy;
+    padding: 3px;
+}
+
+.info {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-top: 10px;
+    color: rgb(101, 32, 147);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 4px dashed purple;
+    padding: 10px;
+
+}
+
+.profile-img {
+    border-style : ridge;
+    border-radius : 20px;
+    border-width : 8px;
+    border-color : indigo;
+    padding : 0px;
+    margin-left : 82px;
+    margin-top : 2px;
+    width: auto;
+    
+}
